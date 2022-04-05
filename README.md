@@ -1,8 +1,8 @@
 <h1 align="center">
   <b>Heyy!!! People</b>
 </h1>
-<samp>
-___"Live as if you were to die tomorrow. Learn as if you were to live forever."___ - this quote will always stay with me, I started my journey with a degree in Mechanical Engineering but I was always drawn to this virtual world of Coding, it made me curious that one can create unique virtual platforms (Websites and Apps) just by coding. This started to build up my interest in web development.
+
+___"Live as if you were to die tomorrow. Learn as if you were to live forever."___ -<samp> this quote will always stay with me, I started my journey with a degree in Mechanical Engineering but I was always drawn to this virtual world of Coding, it made me curious that one can create unique virtual platforms (Websites and Apps) just by coding. This started to build up my interest in web development.
 Now I am Learning more Advanced skills in web development like NodeJS, MongoDB, Express, React, Redux, and DSA. 
 </samp>
 <br>
