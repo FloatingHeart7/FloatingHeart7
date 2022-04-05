@@ -15,15 +15,19 @@ Now I am Learning more Advanced skills in web development like NodeJS, MongoDB, 
 </p>
 
 ```javaScript
-function new FloatingHeart(){
-    
+class FloatingHeart {
+  constructor() {
     this.name = "Hemant Suryawanshi";
     this.username = "hemant-suryawanshi";
     this.location = "Pune, India";
     this.linkedin = "https://www.linkedin.com/in/suryawanshi-hemant/";
- }
-  
-let me = FloatingHeart():
+  }
+}
+
+const Bio = new FloatingHeart();
+
+console.log(Bio);
+
 ```
 
 <div align="center">
