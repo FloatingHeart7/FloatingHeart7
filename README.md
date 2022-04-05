@@ -1,18 +1,12 @@
 <h1 align="center">
-  <b>Heyy!! Hemant Surywanshi</b>
+  <b>Heyy!!! People</b>
 </h1>
-
-__"Live as if you were to die tomorrow. Learn as if you were to live forever."__ - this quote will always stay with me, I started my journey with a degree in Mechanical Engineering but I was always drawn to this virtual world of Coding, it made me curious that one can create unique virtual platforms (Websites and Apps) just by coding. This started to build up my interest in web development.
+<samp>
+___"Live as if you were to die tomorrow. Learn as if you were to live forever."___ - this quote will always stay with me, I started my journey with a degree in Mechanical Engineering but I was always drawn to this virtual world of Coding, it made me curious that one can create unique virtual platforms (Websites and Apps) just by coding. This started to build up my interest in web development.
 Now I am Learning more Advanced skills in web development like NodeJS, MongoDB, Express, React, Redux, and DSA. 
-
+</samp>
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-</div>
-</p>
 
 ```javaScript
 class FloatingHeart {
@@ -29,6 +23,7 @@ const Bio = new FloatingHeart();
 console.log(Bio);
 
 ```
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -64,6 +59,15 @@ console.log(Bio);
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+  
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=hemant-suryawanshi&theme=gruvbox)
+<br>
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{hemant-suryawanshi}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
+
 
 
 
