@@ -27,11 +27,13 @@ console.log(Bio);
 ```
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div>
+</div> -->
+
+<p align="center"><img src="https://raw.githubusercontent.com/hemant-suryawanshi/hemant-suryawanshi/master/dino.gif.gif" style="width:800px; border: 2px solid gray"></p>
 
 <!--
 <div align="center">
@@ -69,6 +71,8 @@ console.log(Bio);
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{hemant-suryawanshi}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
+
+
 
 
 
