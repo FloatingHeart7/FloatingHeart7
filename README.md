@@ -16,7 +16,7 @@ class FloatingHeart {
     this.name = "Hemant Suryawanshi";
     this.username = "hemant-suryawanshi";
     this.location = "Pune, India";
-    this.linkedin = "https://www.linkedin.com/in/suryawanshi-hemant/";
+    this.linkedin = "linkedin.com/in/suryawanshi-hemant";
   }
 }
 
